@@ -8,3 +8,6 @@ Lesson 9 : Thuc hanh su dung bien
 Lesson 10 : Cu phap comment
 Lesson 11 : Su dung comment
 Lesson 12 : Thuat ngu Built-in la gi
+
+
+Lesson 14 : Lam quen voi toan tu
